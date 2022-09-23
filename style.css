@@ -93,6 +93,7 @@ main{
     text-align: center;
     justify-content: center;
     padding: 0px 20px;
+    min-height: 340px;
 }
 
 
